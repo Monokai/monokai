@@ -2,6 +2,10 @@
 
 [Monokai Pro](https://monokai.pro): Beautiful syntax highlighting for Sublime Text and Visual Studio Code
 
+[NFTs on Hic et Nunc](https://hicetnunc.art/monokai): Generative Art
+
+[NFTs on FXHash](https://www.fxhash.xyz/u/monokai): Animating Generative Art
+
 [Trip to Japan](https://monokai.nl/2019/japan): Photo diary of a trip to Japan
 
 [That Can Be My Next Tweet](https://yes.thatcan.be/my/next/tweet): Generate your new tweets based on your profile DNA
